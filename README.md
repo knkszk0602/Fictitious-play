@@ -2,6 +2,7 @@ Fictitious-play
 ===============
 
 私のプログラムの出力結果です：
+
 <img src="fictitious" alt="fictitious" width="120"/>
 <img src="fictitious_hist" alt="fictitious_hist" width="120"/>
 
